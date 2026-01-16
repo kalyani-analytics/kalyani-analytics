@@ -10,13 +10,13 @@
 - **Programming:** Python  
 - **Databases:** SQL (MySQL / PostgreSQL)  
 - **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib, Excel Charts  
+- **Visualization:** Power BI, Matplotlib, Seaborn,Excel Charts  
 - **Other Tools:** Excel, VBA, GitHub
 
 ---
 
 ## 📂 Projects  
-🔹 **Sales Data Analysis** – Cleaned and analyzed sales data using Python & Excel  
+🔹 **Customer Shopping Beahaviour** – Cleaned and analyzed Customer data using Python,use Sql for solve the queries and make an interactive dashboard using Power BI.
 🔹 **SQL Practice Queries** – Joins, Subqueries, Views, Stored Procedures  
 🔹 **Fake vs Real Job Posting Analysis** – Exploratory Data Analysis (EDA)  
 🔹 **Power BI Dashboard** – Interactive dashboard with KPIs and insights  
@@ -35,6 +35,6 @@
 
 ## 📫 Connect With Me  
 - **LinkedIn:** (add your LinkedIn link here)  
-- **Email:** (optional)
+- **Email:** ()
 
 ⭐ Always open to learning, collaboration, and entry-level data analyst opportunities.
