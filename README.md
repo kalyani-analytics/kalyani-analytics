@@ -18,6 +18,7 @@
 ## 📂 Projects  
 🔹 **Customer Shopping Beahaviour** – Cleaned and analyzed Customer data using Python,use Sql for solve the queries 
      and make an interactive dashboard using Power BI.
+     
 🔹 **SQL Practice Queries** – Joins, Subqueries, Views, Stored Procedures  
 🔹 **Fake vs Real Job Posting Analysis** – Exploratory Data Analysis (EDA)  
 🔹 **Power BI Dashboard** – Interactive dashboard with KPIs and insights  
