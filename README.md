@@ -14,7 +14,7 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 
 ---
 🚀 Featured Projects
-- Customer Churn Analysis Dashboard
+- Customer Churn Analysis Dashboard-
   Developed an interactive Power BI dashboard to identify churn patterns and key influencing factors.
 - Customer Shopping Behaviour
 - PhonePe Dashboard
