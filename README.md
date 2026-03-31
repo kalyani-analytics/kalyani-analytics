@@ -5,22 +5,20 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Programming:** Python  
-- **Databases:** SQL (MySQL / PostgreSQL)  
-- **Data Analysis:** Pandas, NumPy  
-- **Visualization:** Power BI, Matplotlib, Seaborn,Excel Charts  
-- **Other Tools:** Excel, VBA, GitHub
+🛠️ Technical Skills
+- Programming: Python  
+- Databases: SQL (MySQL / PostgreSQL)  
+- Data Analysis: Pandas, NumPy  
+- Visualization: Power BI, Matplotlib, Seaborn,Excel Charts  
+- Other Tools: Excel, VBA, GitHub
 
 ---
+🚀 Featured Projects
+- Customer Churn Analysis Dashboard
+  Developed an interactive Power BI dashboard to identify churn patterns and key influencing factors.
+- Customer Shopping Behaviour
+- PhonePe Dashboard
 
-## 📂 Projects  
-🔹 **Customer Shopping Beahaviour** – Cleaned and analyzed Customer data using Python,use Sql for solve the queries 
-     and make an interactive dashboard using Power BI.
-     
-🔹 **SQL Practice Queries** – Joins, Subqueries, Views, Stored Procedures  
-🔹 **Fake vs Real Job Posting Analysis** – Exploratory Data Analysis (EDA)  
-🔹 **Power BI Dashboard** – Interactive dashboard with KPIs and insights  
 
 👉 Check my repositories to see detailed project work.
 
@@ -33,7 +31,11 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 - Interview-oriented problem solving
 
 ---
+📈 Career Objective
 
+Seeking an opportunity as a Data Analyst where I can apply analytical skills, contribute to data-driven strategies, and continuously grow in the field of analytics.
+
+---
 ## 📫 Connect With Me  
 - **LinkedIn:** (add your LinkedIn link here)  
 - **Email:** ()
