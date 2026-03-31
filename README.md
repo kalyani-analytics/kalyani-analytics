@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kalyani Gunjal  
+Hi 👋, I'm Kalyani Gunjal  
 
 💼 About Me
 Aspiring Data Analyst with hands-on experience in data analysis, visualization, and business intelligence. Skilled at converting raw data into actionable insights to support strategic decision-making and improve business performance.
@@ -24,7 +24,7 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 
 ---
 
-## 📚 Currently Learning  
+📚 Currently Learning  
 - Advanced SQL queries  
 - Power BI DAX  
 - Python for Data Analysis  
@@ -36,8 +36,7 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 Seeking an opportunity as a Data Analyst where I can apply analytical skills, contribute to data-driven strategies, and continuously grow in the field of analytics.
 
 ---
-## 📫 Connect With Me  
-- **LinkedIn:** (add your LinkedIn link here)  
-- **Email:** ()
-
-⭐ Always open to learning, collaboration, and entry-level data analyst opportunities.
+📫 Connect With Me  
+- LinkedIn: www.linkedin.com/in/contact-kalyani-gunjal
+- Email: gunjalkalyani2004@gmail.com
+  
