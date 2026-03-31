@@ -1,8 +1,7 @@
 # Hi 👋, I'm Kalyani Gunjal  
 
-🎯 Aspiring **Data Analyst** with a strong interest in data cleaning, analysis, and visualization.  
-📊 Currently building projects using **Python, SQL, Power BI, Excel, and VBA**.  
-🚀 Actively learning and improving my analytical and problem-solving skills.
+💼 About Me
+Aspiring Data Analyst with hands-on experience in data analysis, visualization, and business intelligence. Skilled at converting raw data into actionable insights to support strategic decision-making and improve business performance.
 
 ---
 
