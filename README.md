@@ -13,16 +13,6 @@ Aspiring Data Analyst with hands-on experience in data analysis, visualization, 
 - Other Tools: Excel, VBA, GitHub
 
 ---
-🚀 Featured Projects
-- Customer Churn Analysis Dashboard-
-  Developed an interactive Power BI dashboard to identify churn patterns and key influencing factors.
-- Customer Shopping Behaviour
-- PhonePe Dashboard
-
-
-👉 Check my repositories to see detailed project work.
-
----
 
 📚 Currently Learning  
 - Advanced SQL queries  
